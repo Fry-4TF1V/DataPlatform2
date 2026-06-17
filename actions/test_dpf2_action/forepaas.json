@@ -47,11 +47,11 @@
     "name": "test_dpf2_action",
     "params": {
         "content": "",
-        "dependencies": {},
-        "filename": "test_dpf2_action.py",
-        "func": "",
-        "stop_on_failure": false,
-        "timeout": "2h"
+        "dependencies": {
+            "python": {}
+        },
+        "filename": "main.py",
+        "func": "main"
     },
     "tags": {
         "path": "",
