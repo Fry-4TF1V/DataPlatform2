@@ -2,7 +2,7 @@
     "action": "custom",
     "action_id": "69037aca5e123320ede8edc7",
     "description": "",
-    "display_name": "Test DPF2 action (Copy)",
+    "display_name": "Test DPF2 action 2",
     "environment": {
         "_id": "690379515e123320ede8edc3",
         "build": null,
@@ -50,6 +50,7 @@
         "dependencies": {},
         "filename": "test_dpf2_action.py",
         "func": "",
+        "preallocation": false,
         "stop_on_failure": false,
         "timeout": "2h"
     },
